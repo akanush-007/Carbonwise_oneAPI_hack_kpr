@@ -18,7 +18,7 @@ Our solution combines blockchain technology and AI to create a secure, transpare
 ![image](https://github.com/user-attachments/assets/a8a64d38-ce49-4251-a400-9ac978b96971)
 ![image](https://github.com/user-attachments/assets/3c73aa1e-88af-4e82-8f73-e6bde20295f9)
 
-**Story of the Model: **
+**Story of the Model:**
 Unleashing the Power of Carbon Credits
 
 **Introduction:**
@@ -27,7 +27,7 @@ One of the main challenges in carbon credit management is ensuring transparency 
 **Features:**
 Our carbon credit model offers the following features:
 
-**Data Collection: ** 
+**Data Collection:** 
 Automatically gather data related to carbon emissions and credit generation from various sources, ensuring comprehensive coverage.
 
 **Transaction Validation:** 

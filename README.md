@@ -41,8 +41,13 @@ Performance Tracking:** Monitor the effectiveness of carbon credit projects and 
 **Currently:**
 "We are in the process of developing a platform showcasing our data-driven carbon credit solutions, with a demo utilizing a dataset from a carbon emissions study in 2012, which is included in our GitHub files. Our platform currently focuses on providing tools for businesses and organizations looking to engage in carbon credit trading and management. For optimizing our model, we utilize advanced AI algorithms and blockchain extensions. However, this model is still under development and not yet ready for public release, so we cannot provide any GitHub resources at this time. This decision was made collaboratively by Dark Devlopers."
 
+**Contributors**
+This project was developed by
 
-
+Dinesh B
+Govarthan V
+Dhanvin Kadiir S
+Anush Kumar AK
 
 
 

@@ -44,7 +44,7 @@ Adjust pricing based on real-time supply and demand, ensuring fair market value 
 
 
 **Currently:**
-"We are in the process of developing a platform showcasing our data-driven carbon credit solutions, with a demo utilizing a dataset from a carbon emissions study in 2012, which is included in our GitHub files. Our platform currently focuses on providing tools for businesses and organizations looking to engage in carbon credit trading and management. For optimizing our model, we utilize advanced AI algorithms and blockchain extensions. However, this model is still under development and not yet ready for public release, so we cannot provide any GitHub resources at this time. This decision was made collaboratively by Dark Devlopers."
+"We are in the process of developing a platform showcasing our data-driven carbon credit solutions, with a demo utilizing a dataset from a carbon emissions study in We arrtificially created due to insuffint dat over internet because it very high confedintilal matter only shared with companies by governamnet officials, which is included in our GitHub files. Our platform currently focuses on providing tools for businesses and organizations looking to engage in carbon credit trading and management. For optimizing our model, we utilize advanced AI algorithms and blockchain extensions. However, this model is still under development and not yet ready for public release, so we cannot provide any GitHub resources at this time."
 
 **Contributors**
 This project was developed by
